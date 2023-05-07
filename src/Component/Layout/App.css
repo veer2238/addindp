@@ -1,0 +1,19 @@
+.main{
+    height: 70px;
+    background-color: rgb(179, 214, 244);
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+    gap: 90px;
+    position: relative;
+}
+
+h3:hover{
+    border: 1px solid black;
+    cursor: pointer;
+    
+}
+
+Link{
+    text-decoration: none;
+}
